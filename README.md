@@ -1,0 +1,1 @@
+Disease Diagnosis from Patient Medical Records using AI & ML – Predicts diseases based on patient symptoms using Python, Scikit-learn, and Streamlit. Supports multiple ML models with performance metrics and provides an interactive web app for real-time predictions.
