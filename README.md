@@ -18,13 +18,13 @@ Built with **Python**, **Pandas**, **NumPy**, **Scikit‑learn**, and **Streamli
 
 ## How to Run
 1. Clone the repository  
-```bash
-git clone https://github.com/Prasanth-malla/disease_prediction.git
+   ```bash
+   git clone https://github.com/Prasanth-malla/disease_prediction.git
 2. Install dependencies
-```bash
-pip install -r requirements.txt
-3.  Run the app
-```bash
-streamlit run app.py
+   ```bash
+   pip install -r requirements.txt
+3. Run the app
+   ```bash
+   streamlit run app.py
 
 Open the URL provided (usually http://localhost:8501) in your browser, enter symptoms, and get disease predictions!
